@@ -1,1 +1,3 @@
+# 忽略所有dio文件
 *.dio
+.DS_Store
